@@ -1,5 +1,5 @@
 # Weighted A-Star Algorithm with Binary Heap
- A* Weight can be changed by multiplying the heuristic function with a constant > 1
+ Weighted A* Algorithm implemented with Binary heaps using Manhattan Distance heuristic for 2D Grid
 
 
 # About A*
